@@ -57,10 +57,6 @@ You can use this project as a template or reference for building similar website
 * Fonts: The project uses the "Poppins" font from Google Fonts (https://fonts.google.com/specimen/Poppins).
 * Icon Library: The project relies on the Font Awesome icon library (https://fontawesome.com/) to display icons.
 
-## License
-
-This project is open-source and is available under the [MIT License](LICENSE). You are free to use, modify, and distribute this project for any purpose.
-
 ## How to Contribute
 
 Contributions to this project are welcome. To contribute, follow these steps:
