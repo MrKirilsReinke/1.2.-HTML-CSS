@@ -10,7 +10,6 @@ The project is a simple HTML and CSS website designed to demonstrate HTML and CS
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
 - [Features](#features)
 - [How to Contribute](#how-to-contribute)
 
